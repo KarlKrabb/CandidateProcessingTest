@@ -44,8 +44,7 @@ namespace CandidateProcessingTest.Services
                         if (startDate.Month > endDate.Month || (startDate.Month == endDate.Month && startDate.Day > endDate.Day))
                         {
                             years--;
-                        }
-                        Console.WriteLine(years);
+                        }                        
                         if (years >= yearsExperience)
                         {
                             ContactDetails details = new ContactDetails(candidate.Name, candidate.Email, candidate.Phone, candidate.Location);                            
