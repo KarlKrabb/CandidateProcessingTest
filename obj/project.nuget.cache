@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjBWhYtmcbG44PMcaAlQzl56rYZeERtTGEDePoxBK1IL573J/RSvEF7ZxczQe/BiS+xHvJrAl7MaU6O6ybCFdQ==",
+  "success": true,
+  "projectFilePath": "/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/CandidateProcessingTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/karlkrabbenhoft/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

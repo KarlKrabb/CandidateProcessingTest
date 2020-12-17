@@ -1,0 +1,17 @@
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/CandidateProcessingTest.deps.json
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/CandidateProcessingTest.runtimeconfig.json
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/CandidateProcessingTest.runtimeconfig.dev.json
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/CandidateProcessingTest.dll
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/ref/CandidateProcessingTest.dll
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/CandidateProcessingTest.pdb
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.csprojAssemblyReference.cache
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.AssemblyInfoInputs.cache
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.AssemblyInfo.cs
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.csproj.CoreCompileInputs.cache
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.dll
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/ref/CandidateProcessingTest.dll
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.pdb
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.genruntimeconfig.cache
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/karlkrabbenhoft/Code Repo/CharityJobTest/CandidateProcessingTest/obj/Debug/net5.0/CandidateProcessingTest.csproj.CopyComplete
